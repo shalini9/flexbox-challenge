@@ -32,7 +32,7 @@ nav a {
 }
 
 .nav-logo a {
-  padding: 10px;
+  padding: 10px 35px 10px 35px;
 }
 
 .nav-logo a:hover {
@@ -40,7 +40,7 @@ nav a {
 }
 
 .nav-links a {
-  padding: 10px 33px 10px 35px;
+  padding: 10px 35px 10px 35px;
 }
 
 .nav-links a:hover {
@@ -50,7 +50,7 @@ nav a {
 
 /* Main section */
 
-.main-wrapper {
+.wrapper {
   display: flex;
   justify-content: center;
   width: 100%;
